@@ -33,12 +33,6 @@ Passionné par le développement informatique et la conception d'applications, j
 
 ---
 
-### 📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GOLBIN-Dorian&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&text_color=555&icon_color=007acc)
-
----
-
 ### 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golbin-dorian/)
